@@ -1,5 +1,8 @@
 ## 欢迎来到星空都市——一个him有特色的纯净生存服务器
 
+![QQ图片20210813095010](https://user-images.githubusercontent.com/88810889/129293661-f02eec9f-f449-49c9-85bc-1cfcb81c2cdc.jpg)
+
+
 你可以通过这个 [链接](https://www.bilibili.com/read/cv11688800) 来了解服务器.
 
 总之，欢迎你来到这个和谐有爱的大家庭.
@@ -8,30 +11,70 @@
 
 目前服务器已加入白名单以防止对服务器的破坏
 审核群[戳我](https://jq.qq.com/?_wv=1027&k=SbBJ6MTh)
-```markdown
-Syntax highlighted code block
 
-服务器手册[戳我](https://www.yuque.com/taoge407/xkserver)
+![src=http___i0 hdslb com_bfs_article_1ff30df1f80bf63ad12ad5510b3e03b1f0a0127b jpg refer=http___i0 hdslb](https://user-images.githubusercontent.com/88810889/129293906-e881d2a5-8d4c-4f89-a5b0-0c31c07cadba.jpg)
+
+
+服务器手册：(https://www.yuque.com/taoge407/xkserver)
 您可以借此了解服务器的各项事物！！！
 目前仍在完善！
 
-- Bulleted
-- List
+- 我们的服务器仍在探索
+- 你的支持是我们的最大动力！！！
+- 无偿捐赠：https://afdian.net/login
+- 腐竹一直在用爱发电！！！
+- 管理们也在尽心尽力！！！
 
-1. Numbered
-2. List
+![e02f618b5c8c669ddd1148573287d1d1784f6940](https://user-images.githubusercontent.com/88810889/129293721-354eae11-139a-4b7e-a3ef-3ca5ee82e339.jpg)
 
-**Bold** and _Italic_ and `Code` text
+1. 服务器日志
+2. 目前服务器分为三种
+3. 小漫学院（建筑服），星空都市（生存服），星空都市（mod生存服）【未开放】                
 
-[Link](url) and ![Image](src)
-```
+4. 星空都市MOD服已经开始测试！！！
+5. 目前星空都市已完成一周目生存
+6. 二周目正在进行！！！
+### 我们的路才刚刚开始
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+![src=http___i0 hdslb com_bfs_article_0e3bbdafa25f44010ceb16bc2f0613f5d02f8a41 jpg refer=http___i0 hdslb](https://user-images.githubusercontent.com/88810889/129293776-5c9fddd1-3f63-431d-b842-0af25b86e22c.jpg)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rhizomy/Rhizomy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 杂记
+
+服务器二周目极大确保了公平性
+管理组权限削弱（所以管理只有一个公用号）
+商店收购调整（防止通货膨胀）
+增加税收
+降低土地价格
+
+![src=http___imgs aixifan com_o_1csvm5erv5ql1ghr811rk6vjm1q jpg refer=http___imgs aixifan](https://user-images.githubusercontent.com/88810889/129293793-87e64c03-1c35-4b43-9b26-4ad349b9e613.jpg)
+
+
+### 后记
+
+这并不是服务器官网的正式版（我的知识只够我到这种地步QAQ)
+## 服务器管理组
+1. 腐竹taoge407[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292703-5fc87c2f-c7cc-4fca-a7ce-0d85fb538e1e.jpg)](https://space.bilibili.com/356731453)
+2. 副腐竹llwmfdll[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292829-cc216b09-3fa1-49fa-a00f-15424a41328c.jpg)](https://space.bilibili.com/352069694/)
+3. 巡管Rhizomy[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292896-54c5f133-83db-4b97-bdd2-c43a6ad2c945.jpg)](https://space.bilibili.com/53293198)【网站制作人】
+4. 由于对管理组信息了解不全故以下管理仅提供游戏ID
+5. kiliku
+6. feng_dada
+7. Nike
+##服务器建筑组
+1. max_king_
+2. 猫茗·蝶ฅ【我不知道他游戏id。。。】
+### 为更美好的服务器奋斗吧！！！
+![fwq](https://user-images.githubusercontent.com/88810889/129293542-45be77ca-e121-4e6b-a88e-11a888fbbffa.jpg)
+
+
+
+
+
+![src=http___i0 hdslb com_bfs_article_d0a0ff49898eba8426ec1cc4a3b295bdccd726d3 jpg refer=http___i0 hdslb](https://user-images.githubusercontent.com/88810889/129293585-5380ef92-e7d6-419d-9129-b12364566a58.jpg)
+
+
+
+
