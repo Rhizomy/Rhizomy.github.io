@@ -27,7 +27,8 @@
 
 - 我们的服务器仍在探索！
 - 你的支持是我们的最大动力！！！
-- 如果你有多余军费？可以无偿[捐赠]（https://afdian.net/@taoge407?tab=home)为服务器尽一份力！
+- 如果你有多余军费可以无偿[捐赠]（https://afdian.net/@taoge407?tab=home)
+- 为服务器尽一份力！
 - 腐竹一直在用爱发电！！！
 - 管理们也在尽心尽力！！！
 
@@ -71,7 +72,8 @@
 7. Nike【巡管】
 ## 服务器建筑组
 1. Max_King_
-2. feng_dada[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129297330-53987937-8fea-4bf5-b556-bc5a9f895c8c.jpg](https://space.bilibili.com/523760053)
+2. feng_dada[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129297746-bef3df81-1587-4a57-9f29-40a3c1f07086.jpg)
+](https://space.bilibili.com/523760053)
 
 ### 为更美好的服务器奋斗吧！！！
 ![fwq](https://user-images.githubusercontent.com/88810889/129293542-45be77ca-e121-4e6b-a88e-11a888fbbffa.jpg)
