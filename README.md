@@ -1,4 +1,3 @@
-![QQ图片20210813095010](https://user-images.githubusercontent.com/88810889/129313429-d0918d7f-341f-4c0a-bcd9-aba2760f3e8b.jpg)
 星空都市Star City Server
 =====
 服务器临时官网
