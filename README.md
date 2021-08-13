@@ -21,13 +21,13 @@
 ![src=http___i0 hdslb com_bfs_article_1ff30df1f80bf63ad12ad5510b3e03b1f0a0127b jpg refer=http___i0 hdslb](https://user-images.githubusercontent.com/88810889/129293906-e881d2a5-8d4c-4f89-a5b0-0c31c07cadba.jpg)
 
 
-服务器手册：(https://www.yuque.com/taoge407/xkserver)
+服务器[手册](https://www.yuque.com/taoge407/xkserver)
 您可以借此了解服务器的各项事物！！！
 目前仍在完善！
 
 - 我们的服务器仍在探索
 - 你的支持是我们的最大动力！！！
-- 无偿捐赠：https://afdian.net/login
+- 无偿[捐赠]https://afdian.net/login
 - 腐竹一直在用爱发电！！！
 - 管理们也在尽心尽力！！！
 
@@ -69,7 +69,7 @@
 5. kiliku
 6. feng_dada
 7. Nike
-##服务器建筑组
+## 服务器建筑组
 1. max_king_
 2. 猫茗·蝶ฅ【我不知道他游戏id。。。】
 ### 为更美好的服务器奋斗吧！！！
