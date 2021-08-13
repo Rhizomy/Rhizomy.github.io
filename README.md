@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## 欢迎来到星空都市——一个him有特色的纯净生存服务器
 
-You can use the [editor on GitHub](https://github.com/Rhizomy/Rhizomy.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+你可以通过这个 [链接](https://www.bilibili.com/read/cv11688800) 来了解服务器.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+总之，欢迎你来到这个和谐有爱的大家庭.
 
-### Markdown
+### 加入我们！！！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+目前服务器已加入白名单以防止对服务器的破坏
+审核群[戳我](https://jq.qq.com/?_wv=1027&k=SbBJ6MTh)
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+服务器手册[戳我](https://www.yuque.com/taoge407/xkserver)
+您可以借此了解服务器的各项事物！！！
+目前仍在完善！
 
 - Bulleted
 - List
