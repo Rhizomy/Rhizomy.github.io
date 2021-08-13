@@ -13,7 +13,7 @@
 
 总之，欢迎你来到这个和谐有爱的大家庭.
 
-### 加入我们！！！
+### 加入我们！！！我们联合！！！
 
 目前服务器已加入白名单以防止对服务器的破坏
 审核群[戳我](https://jq.qq.com/?_wv=1027&k=SbBJ6MTh)
@@ -68,10 +68,12 @@
 3. 巡管Rhizomy[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292896-54c5f133-83db-4b97-bdd2-c43a6ad2c945.jpg)](https://space.bilibili.com/53293198)【网站制作人】
 4. 由于对管理组信息了解不全故以下管理仅提供游戏ID
 5. Toothless【协管】
-6. kiliku 【协管】
+6. kiliku 【协管】[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129312386-d959bffe-96b9-4de6-b070-da9d26da9756.jpg)](https://space.bilibili.com/499462913)
+
 7. Nike【巡管】
 ## 服务器建筑组
-1. Max_King_
+1. Max_King_[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129312462-3d89907e-4a9a-44a4-bbdb-79c34e0b4cc7.jpg)](https://space.bilibili.com/416497766)
+
 2. feng_dada[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129297746-bef3df81-1587-4a57-9f29-40a3c1f07086.jpg)
 ](https://space.bilibili.com/523760053)
 
