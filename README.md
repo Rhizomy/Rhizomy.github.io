@@ -27,7 +27,7 @@
 
 - 我们的服务器仍在探索
 - 你的支持是我们的最大动力！！！
-- 无偿[捐赠]https://afdian.net/login
+- 无偿[捐赠](https://afdian.net/login)
 - 腐竹一直在用爱发电！！！
 - 管理们也在尽心尽力！！！
 
@@ -49,11 +49,11 @@
 
 ### 杂记
 
-服务器二周目极大确保了公平性
-管理组权限削弱（所以管理只有一个公用号）
-商店收购调整（防止通货膨胀）
-增加税收
-降低土地价格
+1. 服务器二周目极大确保了公平性
+2. 管理组权限削弱（所有管理只有一个公用号）
+3. 商店收购调整（防止通货膨胀）
+4. 增加税收
+5. 降低土地价格
 
 ![src=http___imgs aixifan com_o_1csvm5erv5ql1ghr811rk6vjm1q jpg refer=http___imgs aixifan](https://user-images.githubusercontent.com/88810889/129293793-87e64c03-1c35-4b43-9b26-4ad349b9e613.jpg)
 
