@@ -25,21 +25,21 @@
 您可以借此了解服务器的各项事物！！！
 目前仍在完善！
 
-- 我们的服务器仍在探索
+- 我们的服务器仍在探索！
 - 你的支持是我们的最大动力！！！
-- 无偿[捐赠](https://afdian.net/login)
+- 如果你有多余军费（？可以无偿[捐赠]（https://afdian.net/@taoge407?tab=home)为服务器尽一份力！
 - 腐竹一直在用爱发电！！！
 - 管理们也在尽心尽力！！！
 
 ![e02f618b5c8c669ddd1148573287d1d1784f6940](https://user-images.githubusercontent.com/88810889/129293721-354eae11-139a-4b7e-a3ef-3ca5ee82e339.jpg)
 
-1. 服务器日志
-2. 目前服务器分为三种
-3. 小漫学院（建筑服），星空都市（生存服），星空都市（mod生存服）【未开放】                
+# 服务器日志
+1. 目前服务器分为三种
+2. 小漫学院（建筑服），星空都市（生存服），星空都市（mod生存服）【测试中】                
 
-4. 星空都市MOD服已经开始测试！！！
-5. 目前星空都市已完成一周目生存
-6. 二周目正在进行！！！
+3. 星空都市MOD服已经开始测试！！！
+4. 目前星空都市已完成一周目生存
+5. 二周目正在进行！！！
 ### 我们的路才刚刚开始
 
 
@@ -66,12 +66,12 @@
 2. 副腐竹llwmfdll[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292829-cc216b09-3fa1-49fa-a00f-15424a41328c.jpg)](https://space.bilibili.com/352069694/)
 3. 巡管Rhizomy[![545d7a59d095c60910605f1b2e493998](https://user-images.githubusercontent.com/88810889/129292896-54c5f133-83db-4b97-bdd2-c43a6ad2c945.jpg)](https://space.bilibili.com/53293198)【网站制作人】
 4. 由于对管理组信息了解不全故以下管理仅提供游戏ID
-5. kiliku
-6. feng_dada
-7. Nike
+5. Toothless【协管】
+6. kiliku 【协管】
+7. Nike【巡管】
 ## 服务器建筑组
 1. max_king_
-2. 猫茗·蝶ฅ【我不知道他游戏id。。。】
+2. feng_dada
 ### 为更美好的服务器奋斗吧！！！
 ![fwq](https://user-images.githubusercontent.com/88810889/129293542-45be77ca-e121-4e6b-a88e-11a888fbbffa.jpg)
 
